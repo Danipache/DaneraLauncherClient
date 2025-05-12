@@ -1,5 +1,5 @@
 {
-	"clientVersion": "14.20.012558",
+	"clientVersion": "14.20.012559",
 	"launcherVersion": "1.0",
 	"replaceFolders": true,
 	"replaceFolderName": [
@@ -11,6 +11,6 @@
 		},
 	],
 	"clientFolder": "Tibia",
-	"newClientUrl" : "https://github.com/Danipache/DaneraLauncherClient/releases/download/v14.20.012558/14.20.012558.zip",
+	"newClientUrl" : "https://github.com/Danipache/DaneraLauncherClient/releases/download/v14.20.012559/14.20.012559.zip",
 	"clientExecutable": "client.exe"
 }
