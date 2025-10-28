@@ -1,3 +1,13 @@
+/**
+• JSON configuration file for the Client Updater
+• version The version of the client, represented as "major.minor.patch".
+• replaceFolders Whether the updater should replace the client's current folders
+• folders An array of objects representing the client's folders, each object has the key "name"
+• clientFolder The name of the main client folder, represented as "Tibia"
+NOTE: Set it to "false" or only "" to not use the client folder, so everything will be added to the main folder
+• newClientUrl The URL where the new client version can be downloaded from
+• executable The path to the client's executable file, represented as "bin/client.exe"
+*/
 {
 	"clientVersion": "15.11.008963",
 	"launcherVersion": "1.0",
