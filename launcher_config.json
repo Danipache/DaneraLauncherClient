@@ -9,7 +9,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 • executable The path to the client's executable file, represented as "bin/client.exe"
 */
 {
-	"clientVersion": "15.11.008963",
+	"clientVersion": "15.20.800705",
 	"launcherVersion": "1.0",
 	"replaceFolders": true,
 	"replaceFolderName": [
@@ -21,6 +21,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		},
 	],
 	"clientFolder": "Tibia",
-	"newClientUrl" : "https://github.com/Danipache/DaneraLauncherClient/releases/download/v15.11.008963/15.11.008963.zip",
+	"newClientUrl" : "https://github.com/Danipache/DaneraLauncherClient/releases/download/v15.20.800705/15.20.800705.zip",
 	"clientExecutable": "client.exe"
 }
